@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|c:\\users\\hp\\source\\repos\\dvld_project\\frmissuelicenseforthefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:frmissuelicenseforthefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmissuelicenseforthefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:frmissuelicenseforthefirsttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795CBDFE-7E5C-44D9-B711-1980EB454FDC}|..\\DVLD_BusinnesLayer\\DVLD_BusinnesLayer.csproj|c:\\users\\hp\\source\\repos\\dvld_businneslayer\\localdrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\application\\local driving licens\\frmlocaldrivinglicenseapplicationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:application\\local driving licens\\frmlocaldrivinglicenseapplicationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\application\\local driving licens\\frmlocaldrivinglicenseapplicationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:application\\local driving licens\\frmlocaldrivinglicenseapplicationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BABBDF9-4933-4473-982B-93B4B376AADE}|..\\DVLD_DataAccessLayer\\DVLD_DataAccessLayer.csproj|c:\\users\\hp\\source\\repos\\dvld_dataaccesslayer\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795CBDFE-7E5C-44D9-B711-1980EB454FDC}|..\\DVLD_BusinnesLayer\\DVLD_BusinnesLayer.csproj|c:\\users\\hp\\source\\repos\\dvld_businneslayer\\license.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\application\\local driving licens\\controls\\ctrllocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:application\\local driving licens\\controls\\ctrllocaldrivinglicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07150E76-F138-4FFE-9B7C-51A7DDBD18EE}|DVLD_Project.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLocalDrivingLicenseApplicationList.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:26:19.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\License.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccessLayer\\License.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_DataAccessLayer\\License.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccessLayer\\License.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAcwP0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:24:20.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_BusinnesLayer\\LocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_BusinnesLayer\\LocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_BusinnesLayer\\LocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "..\\DVLD_BusinnesLayer\\LocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAcwOsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:10:04.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmIssueLicenseForTheFirstTime.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmIssueLicenseForTheFirstTime.cs",
+              "RelativeDocumentMoniker": "frmIssueLicenseForTheFirstTime.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmIssueLicenseForTheFirstTime.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmIssueLicenseForTheFirstTime.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T11:51:55.1Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLocalDrivingLicenseApplicationList.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "RelativeToolTip": "Application\\Local Driving Licens\\frmLocalDrivingLicenseApplicationList.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAADwvwwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:27:04.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmIssueLicenseForTheFirstTime.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmIssueLicenseForTheFirstTime.cs",
+              "RelativeDocumentMoniker": "frmIssueLicenseForTheFirstTime.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmIssueLicenseForTheFirstTime.cs",
+              "RelativeToolTip": "frmIssueLicenseForTheFirstTime.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:07:55.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "License.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_BusinnesLayer\\License.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_BusinnesLayer\\License.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_BusinnesLayer\\License.cs",
+              "RelativeToolTip": "..\\DVLD_BusinnesLayer\\License.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwF8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T10:23:25.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:24:13.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ctrlLocalDrivingLicenseApplication.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\Controls\\ctrlLocalDrivingLicenseApplication.cs",
+              "RelativeDocumentMoniker": "Application\\Local Driving Licens\\Controls\\ctrlLocalDrivingLicenseApplication.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\Application\\Local Driving Licens\\Controls\\ctrlLocalDrivingLicenseApplication.cs",
+              "RelativeToolTip": "Application\\Local Driving Licens\\Controls\\ctrlLocalDrivingLicenseApplication.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwDEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T12:08:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmMain.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DVLD_Project\\frmMain.cs [Tasar\u0131m]",
+              "RelativeToolTip": "frmMain.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:24:07.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
