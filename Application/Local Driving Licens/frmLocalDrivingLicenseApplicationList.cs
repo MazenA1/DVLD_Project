@@ -1,4 +1,5 @@
 ﻿using DVLD_BusinnesLayer;
+using DVLD_Project.Local_Licenses.Control;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -263,6 +264,16 @@ namespace DVLD_Project.Application.Local_Driving_Licens
 
             // Refresh.
             frmLocalDrivingLicenseApplicationList_Load(null, null);
+        }
+
+        private void showLicenseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            int LocalDrivingLicenseApplicationID = (int)dgvLocalApplicationList.CurrentRow.Cells[0].Value;
+            int LicenseID = clsLocalDrivingLicenseApplication.FindByLocalDrivingAppLicenseID
+                (LocalDrivingLicenseApplicationID).GetActiveLicenseID();
+
+            Form frm = new frmShowDriverLicenseInfo(LicenseID);
+            frm.ShowDialog();
         }
     }
 }
